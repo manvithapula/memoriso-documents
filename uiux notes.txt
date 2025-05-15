@@ -1,0 +1,30 @@
+UI
+
+Clear purpose - what user achieves / information provided to user 
+Clarity - text clear, readable, enough white space 
+Information hierarchy - the title, sub title, body, content differentiated by font size 
+Proximity and grouping - related items grouped together and create whitespaces to differentiate the different ones clearly 
+Toolbar - not same as tabbar, has additional tools like create, share etc 
+Tabbar - if u select a particular item others get unselected 
+Menu - additional tools on top displayed using pop up 
+
+
+WWDC - mike stern 
+
+Human Interface Guidelines 
+
+
+
+UX heuristics 
+
+
+1. Visibility of system status 
+2. Match between real word - Use relevant icons 
+3. User control and freedom 
+4. Consistency and standard
+5. Error prevention : like highlight of misspelled words and delete confirmation and password requirements
+6. Recognition : same colours for all google apps 
+7. Flexility : navigate from any where
+8. Aesthetics 
+9. Error recovery : if password or email is missing issue a warning 
+10. Help and documentation : for first time users where to start
