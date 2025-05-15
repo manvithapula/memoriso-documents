@@ -1,0 +1,68 @@
+This is our home screen, designed to keep your study experience simple and organised.  
+At the top, you can upload your study materials by tapping the Upload PDF button. The app will automatically generate flashcards, quizzes, and summaries to help you learn more efficiently.  
+Below that, you'll find your personalised schedule for the day. Everything you need is just one tap away, making it easy to stay on track.  
+You can also access your recent subjects to quickly pick up where you left off.  
+And if you want to improve your study habits, our study techniques like spaced repetition and active recall to boost your learning.
+
+
+After tapping on Upload, you’ll start by entering your Unit Name / topic that you want to learn. 
+Next you can either type a new subject name or select an existing one from the list.
+For this session, let’s choose Spaced Repetition as our learning technique, and then we have to upload out pdf, once uploaded tap on create and sit tight while we create the module. 
+Spaced Repetition is a scientifically proven method that helps you remember information for the long term. It works by showing you flashcards at increasing intervals to reinforce your learning just before you’re likely to forget. This technique enhances memory retention and makes studying more efficient.
+Now that the flashcards have been generated, we will the screen displaying all your ongoing modules. Here you can find all the sets you've created  Each module is labeled by its unit name, subject, and the number of revision sets remaining, now simple tap on the module to begin your session. 
+
+This is your schedule screen, where you can see your flashcard review plan using spaced repetition.  
+
+You have 6 sets remaining, and your progress will be tracked with an average retention score, which measures how well you remember the material. Right now, it’s at 0 since you haven’t started yet.  
+
+The reviews are spaced at fixed intervals based on research that shows reviewing information at set times helps strengthen memory. These intervals are designed to reinforce what you've learned by refreshing it in your mind before it fades.  
+
+Review 1 is ready for you to start now.  
+Review 2 is scheduled for the next day, then Review 3 two days later, and so on.  
+By following this schedule, you’ll effectively retain the information with minimal effort.  
+
+Once you complete your first review, your retention score will update to reflect your progress. Let’s get started!
+
+Next, there's a short animation designed to guide first-time users through how the flashcard review works.  
+
+It will show that if you remember the answer, you should swipe right. If you need more practice, swipe left. If you’re unsure or want to check your answer, simply tap the card to flip it and reveal the correct answer.  
+
+
+In the main flashcard screen, you’ll see a question displayed on the card.  
+
+- Swipe Right if you remembered the answer.  
+- Swipe Left if you need more practice.  
+- Tap the Card to reveal the answer.  
+
+At the bottom, you'll see counters for how many cards you marked as needing more practice or memorised. This helps you track your progress during the session.
+After finishing your flashcards, you'll see this results screen. It celebrates your progress with confetti, shows how many cards you memorized, your overall progress percentage, and how many cards need review. When you're ready, just tap 'Continue Learning' to keep going!"
+
+your documents are securely stored and organized by subject, eliminating the need for repeated uploads. Access your materials anytime, effortlessly. Plus, you can create multiple learning modules from the same PDF, tailoring study sessions to different techniques or topics. It's a smarter way to manage and customize your learning experience
+This time, let's explore the 'Active Recall' feature. After selecting your document and tapping 'Active Recall,' the app will generate thoughtful, customized questions to challenge your understanding. This proven learning technique helps reinforce knowledge and improve long-term retention, making your study sessions more effective and engaging."
+This is your schedule screen for Active Recall practice.  
+You have 6 sessions remaining, and your progress will be tracked with an average retention score. Right now, it’s at 0 since you haven’t started yet.  
+Active Recall is a powerful learning technique that involves retrieving information from memory, rather than just reviewing it. This method significantly boosts retention and understanding by making your brain work to recall concepts.  
+Review 1 is ready for you to start now.  
+Each subsequent review is scheduled at specific intervals to reinforce your memory — with Review 2 tomorrow, Review 3 two days later, and so on.  
+After each session, your retention score will update, reflecting how well you’re recalling the material. Let's begin and see how much you can retain!
+
+This is your question-based Active Recall module.  
+
+You'll see a series of multiple-choice questions like this one, designed to test your understanding and reinforce learning.  
+
+- The question is displayed at the top, and you have four possible answer choices labeled A, B, C, and D.  
+- Once you select an answer, the "Continue" button will become active, allowing you to proceed to the next question.  
+- Your progress is tracked by the bar at the top, and the percentage will update as you answer questions.  
+
+This method is effective for recalling information from memory, helping you retain concepts long-term. Let’s see how much you can remember!
+After finishing your Active Recall session, you'll see this results screen. It celebrates your progress with confetti, shows how many questions you answered correctly, your overall accuracy percentage, and how many questions need further review. When you're ready, just tap 'Continue Learning' to keep going
+
+
+similarly now lets go for summary technique 
+"Welcome to your Summary screen! Here, you get a clear and concise overview of your document, making it easy to grasp key concepts at a glance. With options to copy, share, or listen to the summary, you can study on the go or quickly revisit essential points. Adjust the text size for comfortable reading and stay on top of your learning — it’s your knowledge, simplified!
+now coming back to  Home Screen! Here, you can view your upcoming revision schedule, neatly organized by day. Track your progress with completed tasks marked for clarity, and stay on top of your learning goals. Simply tap on any task to dive into your revision and keep the momentum going!"
+
+"In the 'My Subjects' section, all your modules are neatly organized subject-wise. You can easily track your progress and see how many quizzes are left for each subject. Stay focused, complete your pending tasks, and keep moving towards your learning goals!"
+"You also have the option to create a new subject by entering the subject name and hitting 'Save.' This makes it easy to add and organize your learning materials for any new topics or courses!"
+
+"And finally, we have the rewards section! Here, you can track your progress, see how many flashcards, quizzes, and summaries you've completed, and monitor your journey toward earning new badges. The more you accomplish, the closer you get to unlocking higher levels and becoming a true study master!"
