@@ -1,0 +1,34 @@
+Slide 1: Meet Sara - MANVITHA
+"Meet Sara, a medical student who just spent 6 hours preparing for her neurology exam. Her textbooks are a rainbow of highlighted passages, her walls are covered in sticky notes, and she's reread every chapter twice. Yet three days later, sitting in her study group, she can barely recall the basic concepts she studied so intensely."
+
+Slide 2: The Problem Statement - MANVITHA
+"Which brings us to our problem statement—Many students struggle with retaining information effectively despite extensive studying, leading to lower academic performance."
+
+Slide 3-4: Target Audience - MANVITHA
+"Sara’s struggle isn’t unique. Countless students aged 12 - 22 across various fields—whether in medicine, engineering, law, or competitive exams—face the same challenge. They invest hours into studying, yet forget crucial details when they need them the most."
+"The issue isn’t how much you study—it’s how you study. Your brain needs the right timing, the right patterns, and the right reinforcement to convert short-term knowledge into long-term mastery."
+
+Slide 5-6: Market Research - DEV
+"Globally, there are approximately 1.8 billion students, with 15-20% struggling with memory retention. In India alone, 300 million students face similar challenges, with 10-15% affected."
+"Many prepare for high-stakes exams like JEE, NEET, and UPSC, where every minute counts for their future. Our solution addresses this critical issue, helping students retain information efficiently and maximize their study time."
+
+Slide 7: Solution – StudySphere - ANWIN
+"Passive methods like rereading and highlighting feel productive but lead to poor retention. This is where StudySphere comes in—an AI-powered learning platform designed to enhance memory retention using scientific techniques."
+
+Slide 8-9: Core Feature – Spaced Repetition - ANWIN
+"Spaced repetition helps reinforce learning over time. Our flashcards are designed to resurface information at optimal intervals, ensuring students retain what they study."
+
+Slide 10: Core Feature – Active Recall - ANWIN
+"Taking a revision quiz before an exam may help with review but doesn’t actively improve long-term memory recall. Active recall tests students at strategic intervals, strengthening memory retention through retrieval practice."
+
+Slide 11: Core Feature – Summarisation - ANWIN
+"Students may feel overwhelmed by lengthy content. Our Summasizer breaks down complex topics into concise, digestible sections—reducing cognitive overload and allowing students to focus on essential concepts instead of sifting through unnecessary details."
+
+Slide 12: Additional Features - ANWIN
+"StudySphere isn’t just about memory—it’s about efficiency. Students can organise subjects, earn progress badges, and also  use schedule which promotes consistent routine, keeping them engaged and structured."
+
+Slide 13: Technology Stack - ANWIN 
+"We leverage powerful tools like UIKit, Firebase, and AVFoundation to ensure a seamless and interactive learning experience."
+
+
+
