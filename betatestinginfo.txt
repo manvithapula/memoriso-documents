@@ -1,0 +1,12 @@
+Memoriso is an AI-powered learning app designed to help students retain information effectively using science-backed techniques like spaced repetition, active recall, and summarisation. Stay organised, track your progress, memorise your content smarter with memoriso. 
+
+
+Features to be Tested  
+- Spaced Repetition : Creates a flashcards that have to be revised at optimal intervals.  
+- Active Recall : Evaluate memory retention through a quiz module at optimal intervals   
+- Summariser: Confirm accurate and concise content generation.  
+- Subject Management: Test subject-wise organisation, allowing users to create and categorise their modules according to subject
+- Document Organiser: Assess the ability to add, scan, and organise study materials for creating study technique modules
+- Study Progress Tracking: Test progress badges and performance insights 
+- Scheduling and Reminders: Validate scientifically designed fixed study plans for optimal learning and retention.
+- User Experience: Assess interface navigation, visual design, and engagement.  
